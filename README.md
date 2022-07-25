@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @huzaifaaziz90
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning FrontEnd Web development
+- 🌱 I’m a FrontEnd Web developer
 - 📫 How to reach me: email: huzaifaaziz90@gmail.com
 
 <!---
