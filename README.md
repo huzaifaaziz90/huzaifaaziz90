@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Huzaifa Aziz
 - 👀 I’m interested in Web development
-- 🌱 I’m a FrontEnd Web developer
+- 🌱 I’m a Project coordinator
 - 📫 How to reach me: email: huzaifaaziz90@gmail.com
 - 🧑‍💼 How to reach me on linkedin: www.linkedin.com/in/huzaifah-aziz-63092996/
 
